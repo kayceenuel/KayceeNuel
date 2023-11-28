@@ -1,7 +1,7 @@
  Kaycee Nuel.
 ==============================================================================================================================================================
 
-Full Stack Software Engineer.
+ Software Engineer.
 -----------------------------
 
 I'm a Full Stack Software Developer with a strong focus on backend development. Currently mastering JavaScript and the MERN stack, my passion for technology drives me to leverage my skills for positive contributions and impactful solutions in people's lives.
