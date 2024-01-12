@@ -8,7 +8,7 @@ I'm a Full Stack Software Developer with a strong focus on backend development. 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [heykayceee@gmail.com](mailto:heykayceee@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms, Typescript.
+* 🧠  I'm learning Typescript.
 * 🤝  I'm open to collaborating on Open Source Projects and working alongside other Engineers.
 
 ### Skills
