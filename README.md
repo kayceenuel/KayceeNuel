@@ -1,2 +1,2 @@
  ## Hi ✌
-## Software Engineer | Systems, Infrastructure, and Backend
+ Software Engineer | Systems, Infrastructure, and Backend
