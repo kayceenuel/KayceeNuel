@@ -1,2 +1,2 @@
- ## Hi ✌
- Software Engineer | Systems, Infrastructure, and Backend
+## Hi ✌
+ Software Engineer focusing on building Distributed Systems, Infrastructure, and Backend Systems.
