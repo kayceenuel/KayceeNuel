@@ -1,2 +1,2 @@
 ## Hi ✌
- Backend & Cloud.
+ Backend, infra & Cloud.
