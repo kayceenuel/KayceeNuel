@@ -1,2 +1,2 @@
 ## Hi ✌
- backend, infra & cloud Engineering.
+ backend & cloud Engineering.
